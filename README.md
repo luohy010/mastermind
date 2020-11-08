@@ -1,1 +1,2 @@
 # mastermind
+git init
